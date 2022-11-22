@@ -1,0 +1,13 @@
+h1, h2{
+    color: rgba(39, 201, 201, 0.7);
+}
+a , i{
+    text-decoration: none;
+    color: rgba(12, 11, 11, 0.7);
+    font-size: 20px;
+}
+.abc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
